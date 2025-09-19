@@ -1,4 +1,4 @@
-##⚡Progress,not perfection
+⚡Progress,not perfection
 
 <!--
 **Y12he/Y12he** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
